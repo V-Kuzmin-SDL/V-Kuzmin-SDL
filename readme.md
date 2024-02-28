@@ -9,3 +9,5 @@ add text from web brouser
 Add text local
 
 add 2way and text inside
+
+TEXT 
