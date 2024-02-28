@@ -12,4 +12,8 @@ add 2way and text inside
 
 TEXT 
 
+<<<<<<< HEAD
 Add local conflict
+=======
+Fixxing problem add text brouser
+>>>>>>> a7fa78142324ac24723b837f131a714c270db250
