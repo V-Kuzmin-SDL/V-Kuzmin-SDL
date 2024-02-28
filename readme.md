@@ -12,4 +12,4 @@ add 2way and text inside
 
 TEXT 
 
-Fixxing problem
+Fixxing problem add text brouser
