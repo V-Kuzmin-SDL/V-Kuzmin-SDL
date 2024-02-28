@@ -11,3 +11,5 @@ Add text local
 add 2way and text inside
 
 TEXT 
+
+Add local conflict
