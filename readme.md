@@ -9,5 +9,5 @@ With best wishes!
 
 
 =======
-Fixxing problem add text brouser
+Programming for every)))
 >>>>>>> a7fa78142324ac24723b837f131a714c270db250
